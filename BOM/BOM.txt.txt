@@ -1,0 +1,18 @@
+R1 & R2 = 1K Resistor 0603
+R3 = 100 ohm Resistor 0603
+R4 = 1.2K Resistor 0603
+R5 = 1K Resistor 0603
+CHRG = RED LED 0805
+FULL = GREEN LED 0805
+C1 = 0.1uF-25v-5% 0603
+C2 = 0.1uF-25v-5% 0805
+C3 = 100nF 0603
+
+U1 = TP4056 = https://www.lcsc.com/product-detail/Battery-Management-ICs_TPOWER-TP4056_C382139.html
+U3 = DW01A-G = https://www.lcsc.com/product-detail/Battery-Management-ICs_Fortune-Semicon-DW01A-G_C61503.html
+Q1 = FS8205A = https://www.lcsc.com/product-detail/MOSFETs_Fortune-Semicon-FS8205A_C16052.html
+
+U4 = Switch Battery Connector = AliExpress, Zedlabz, Replacebase etc
+U5 = Switch Lite Battery Connector = AliExpress, Zedlabz, Replacebase etc
+U6 = Terminal Connector Part No. 1985865 = https://www.digikey.in/en/products/detail/phoenix-contact/1985865/2511090
+USB-C = Part No. 105450-0101 = https://www.digikey.co.uk/en/products/detail/molex/1054500101/5843890?s=N4IgTCBcDaIIwAYCsAWJCC0DFxAXQF8g
