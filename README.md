@@ -10,7 +10,7 @@ This was created to help not only myself but others in charging the standard Swi
 battery when you are workingg on the main boards for repairs, so that you dont need to use a donor
 board to charge the battery which can be a pain with two shells open.
 
-![OpenXenium Assembled](https://github.com/victor7376/Switch_Battery_Charger/blob/main/Images/Charger.jpg?raw=true
+![OpenXenium Assembled](https://github.com/victor7376/Switch_Battery_Charger/blob/main/Images/Charger.jpg?raw=true)
 
 ###########################################################################################################################
 
