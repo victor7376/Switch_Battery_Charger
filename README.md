@@ -12,7 +12,7 @@ board to charge the battery which can be a pain with two shells open.
 
 ![OpenXenium Assembled](https://github.com/victor7376/Switch_Battery_Charger/blob/main/Images/Charger.jpg?raw=true)
 
-###########################################################################################################################
+#######################################################################################
 
 The charger can be wired up to 2 different Battery indicators via the two OUTPUT pads above the Switch Battery connectors:
 
@@ -49,7 +49,7 @@ Red Boarder = 3.1 - 3.2V
 9 BAR = 4.0v
 10 BAR = 4.1v
 
-###########################################################################################################################
+#######################################################################################
 
 The screw terminals & USB-C port can only be used separately, do NOT use them at the same time.
 
