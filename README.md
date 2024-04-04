@@ -1,3 +1,9 @@
+UPDATE (APRIL 2024):
+
+** NEW FILES WILL BE UPLOADED SOON **
+
+NOW HAS JOYCON CONNECTOR & OFFICIAL CHARGER USEAGE WITH BETTER DESIGN
+
 # Switch_Battery_Charger
 Charger board for the Switch battery - Standard & Lite
 
